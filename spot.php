@@ -19,4 +19,5 @@ return $s;
 echo spot($string1);
 //test git!
 //new chenge git!1
+// new change git 2
 ?>
